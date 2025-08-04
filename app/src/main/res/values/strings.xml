@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraMLValidator</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="retry">Retry</string>
+    <string name="success">Success!</string>
+    <string name="upload">Upload</string>
+    <string name="retake">Retake</string>
+</resources>
